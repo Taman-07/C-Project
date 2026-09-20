@@ -1,4 +1,4 @@
-# **Huffman File Compression Tool**
+# **File Compression Tool**
 
 A command-line file compression utility written completely in **C**.
 
